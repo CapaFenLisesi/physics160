@@ -1,0 +1,12 @@
+packinon/*
+info.pdf
+faces.py
+project_circle.py
+project_multi.py
+*.log
+*.blg
+*.aux
+report/Rough Draft.pdf
+*.synctex.gz
+report/proposal/*
+*.swp

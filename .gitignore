@@ -1,11 +1,18 @@
 packinon/*
+*.xlsx
+*.pdn
 info.pdf
 faces.py
 project_circle.py
 project_multi.py
 *.log
 *.blg
+*.bbl
 *.aux
+*.nav
+*.toc
+*.snm
+*.out
 report/Rough Draft.pdf
 *.synctex.gz
 report/proposal/*

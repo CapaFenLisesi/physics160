@@ -6,7 +6,7 @@ Use a ball-spring model of a golf ball to simulate what happens when a golf ball
 
 ## Requirements to run
 * Python 3.x
-* [VPython](www.vpython.org)
+* [VPython](http://www.vpython.org)
 
 ## Results and more detailed information
 See report/report.pdf for a very detailed report of how the simulation was created and results
